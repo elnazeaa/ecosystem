@@ -7,6 +7,31 @@ import img6 from "../images/middle/06.png";
 import img7 from "../images/middle/07.png";
 import img8 from "../images/middle/08.png";
 
+import img9 from "../images/eco/01.png";
+import img10 from "../images/eco/02.png";
+import img11 from "../images/eco/03.png";
+
+export const ecos = [
+  {
+    id: 1,
+    img: img9,
+    name: "human ecosystem",
+    text: "Lorem Ipsum, Dolor Sit Amet Consectetur Adipisicing Elit. Eligendi, Ducimus.",
+  },
+  {
+    id: 2,
+    img: img10,
+    name: "endangered species ",
+    text: "Lorem Ipsum, Dolor Sit Amet Consectetur Adipisicing Elit. Eligendi, Ducimus.",
+  },
+  {
+    id: 3,
+    img: img11,
+    name: "science of using tools",
+    text: "Lorem Ipsum, Dolor Sit Amet Consectetur Adipisicing Elit. Eligendi, Ducimus.",
+  },
+];
+
 export const items = [
   {
     id: 1,

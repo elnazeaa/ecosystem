@@ -8,6 +8,7 @@ import {
 import Header from "./components/Header";
 import MiddleSection from "./components/Middle";
 import About from "./components/About";
+import Ecosystem from "./components/Eosystem";
 
 const App = (props) => {
   return (
@@ -16,6 +17,7 @@ const App = (props) => {
       <Header />
       <MiddleSection />
       <About />
+      <Ecosystem />
       <Switch></Switch>
     </BrowserRouter>
   );

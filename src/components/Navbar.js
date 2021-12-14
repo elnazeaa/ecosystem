@@ -24,10 +24,11 @@ const Navbar = (props) => {
         )}
       </button>
       <nav className={`${isBar ? "navbar" : "navbar active"}`}>
-        <a href="#home">home</a>
-        <a href="#news">news</a>
-        <a href="#about">about us</a>
-        <a href="#contact">contact us</a>
+        <a href="#home">Home</a>
+        <a href="#news">News</a>
+        <a href="#about">About us</a>
+        <a href="#ecosytem">Ecosystem</a>
+        <a href="#contact">Contact us</a>
       </nav>
     </Wrapper>
   );
