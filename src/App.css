@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-padding-top: 7rem;
+  scroll-behavior: smooth;
+  font-family: "Poppins", sans-serif;
+}
+
+@media screen and (max-width: 1024px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+#freepik--Sun--inject-65 {
+  animation: sun 4s infinite linear;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes sun {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+#freepik--Birds--inject-65 {
+  animation: leaf 2s infinite linear;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes leaf {
+  0%,
+  100% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+}
+
+#freepik--Circle--inject-65 {
+  animation: circle 10s infinite linear;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes circle {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(365deg);
+  }
+}
