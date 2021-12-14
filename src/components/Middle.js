@@ -4,7 +4,7 @@ import { items } from "../utils/info";
 
 const MiddleSection = (props) => {
   return (
-    <Wrapper>
+    <Wrapper id="news">
       <div className="container">
         {items.map((item) => {
           return (

@@ -7,6 +7,7 @@ import {
 } from "react-router-dom/cjs/react-router-dom.min";
 import Header from "./components/Header";
 import MiddleSection from "./components/Middle";
+import About from "./components/About";
 
 const App = (props) => {
   return (
@@ -14,6 +15,7 @@ const App = (props) => {
       <Navbar />
       <Header />
       <MiddleSection />
+      <About />
       <Switch></Switch>
     </BrowserRouter>
   );

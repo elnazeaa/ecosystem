@@ -4,7 +4,7 @@ import banner from "../images/header/banner.jpg";
 import eco from "../images/header/Ecosystem-amico.svg";
 const Header = (props) => {
   return (
-    <Wrapper id="#home">
+    <Wrapper id="home">
       <div className="img">
         <img src={eco} alt="header banner" />
       </div>
