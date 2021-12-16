@@ -9,6 +9,7 @@ import Header from "./components/Header";
 import MiddleSection from "./components/Middle";
 import About from "./components/About";
 import Ecosystem from "./components/Eosystem";
+import Features from "./components/Features";
 
 const App = (props) => {
   return (
@@ -18,6 +19,7 @@ const App = (props) => {
       <MiddleSection />
       <About />
       <Ecosystem />
+      <Features />
       <Switch></Switch>
     </BrowserRouter>
   );

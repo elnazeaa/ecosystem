@@ -28,6 +28,7 @@ const Navbar = (props) => {
         <a href="#news">News</a>
         <a href="#about">About us</a>
         <a href="#ecosytem">Ecosystem</a>
+        <a href="#featurs">Features</a>
         <a href="#contact">Contact us</a>
       </nav>
     </Wrapper>

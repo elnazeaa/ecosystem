@@ -78,6 +78,7 @@ const Wrapper = styled.section`
   }
   .title h2 {
     font-size: 4rem;
+    font-weight: normal;
   }
 `;
 
