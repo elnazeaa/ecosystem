@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1667e48e.chunk.css",
+    "main.js": "./static/js/main.7c1292fe.chunk.js",
+    "main.js.map": "./static/js/main.7c1292fe.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.463f3802.js",
+    "runtime-main.js.map": "./static/js/runtime-main.463f3802.js.map",
+    "static/js/2.670c35ec.chunk.js": "./static/js/2.670c35ec.chunk.js",
+    "static/js/2.670c35ec.chunk.js.map": "./static/js/2.670c35ec.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.1667e48e.chunk.css.map": "./static/css/main.1667e48e.chunk.css.map",
+    "static/js/2.670c35ec.chunk.js.LICENSE.txt": "./static/js/2.670c35ec.chunk.js.LICENSE.txt",
+    "static/media/01.ec45755a.png": "./static/media/01.ec45755a.png",
+    "static/media/01.ed11ac55.png": "./static/media/01.ed11ac55.png",
+    "static/media/01.ed81c9a0.png": "./static/media/01.ed81c9a0.png",
+    "static/media/02.26bf4dfc.png": "./static/media/02.26bf4dfc.png",
+    "static/media/02.92a278da.png": "./static/media/02.92a278da.png",
+    "static/media/02.98ecb31f.png": "./static/media/02.98ecb31f.png",
+    "static/media/03.63080b0b.png": "./static/media/03.63080b0b.png",
+    "static/media/03.9a853d79.png": "./static/media/03.9a853d79.png",
+    "static/media/03.eb4cebd4.png": "./static/media/03.eb4cebd4.png",
+    "static/media/04.f019ab30.png": "./static/media/04.f019ab30.png",
+    "static/media/04.fc07f45f.png": "./static/media/04.fc07f45f.png",
+    "static/media/05.2060c650.png": "./static/media/05.2060c650.png",
+    "static/media/06.eea983f2.png": "./static/media/06.eea983f2.png",
+    "static/media/07.81755203.png": "./static/media/07.81755203.png",
+    "static/media/08.41df1321.png": "./static/media/08.41df1321.png",
+    "static/media/Baby Shark-amico 1.c5d7c0b1.svg": "./static/media/Baby Shark-amico 1.c5d7c0b1.svg",
+    "static/media/Ecosystem-amico.fe635d64.svg": "./static/media/Ecosystem-amico.fe635d64.svg",
+    "static/media/Forest-bro 1.a25bbc6e.svg": "./static/media/Forest-bro 1.a25bbc6e.svg",
+    "static/media/Seasonchange.161d2f41.svg": "./static/media/Seasonchange.161d2f41.svg",
+    "static/media/banner.250ae622.jpg": "./static/media/banner.250ae622.jpg",
+    "static/media/ice.d9106d7f.svg": "./static/media/ice.d9106d7f.svg",
+    "static/media/logo_1.f650be71.png": "./static/media/logo_1.f650be71.png",
+    "static/media/raining.42c065a1.svg": "./static/media/raining.42c065a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.463f3802.js",
+    "static/js/2.670c35ec.chunk.js",
+    "static/css/main.1667e48e.chunk.css",
+    "static/js/main.7c1292fe.chunk.js"
+  ]
+}
