@@ -11,6 +11,7 @@ import About from "./components/About";
 import Ecosystem from "./components/Eosystem";
 import Features from "./components/Features";
 import Footer from "./components/Footer";
+import Review from "./components/Review";
 
 const App = (props) => {
   return (
@@ -21,6 +22,7 @@ const App = (props) => {
       <About />
       <Ecosystem />
       <Features />
+      <Review />
       <Footer />
       <Switch></Switch>
     </BrowserRouter>

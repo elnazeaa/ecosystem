@@ -36,7 +36,7 @@ const Footer = (props) => {
         <div className="box">
           <h4>Follow Us</h4>
           {fourthSection.map((item) => {
-            return <a key={item.id}>{item.name}</a>;
+            return <li key={item.id}>{item.name}</li>;
           })}
         </div>
       </div>

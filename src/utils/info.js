@@ -11,6 +11,46 @@ import img9 from "../images/eco/01.png";
 import img10 from "../images/eco/02.png";
 import img11 from "../images/eco/03.png";
 
+import img12 from "../images/review/01.png";
+import img13 from "../images/review/02.png";
+import img14 from "../images/review/03.png";
+import img15 from "../images/review/04.png";
+
+export const reviews = [
+  {
+    id: 1,
+    name: "John Deo",
+    job: "Adventure guide",
+    title:
+      "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Minima Libero Ullam, Facilis Similique Nam Possimus Obcaecati Tempore Sunt Laboriosam Alias?",
+    image: img12,
+  },
+  {
+    id: 2,
+    name: "Joe Deo",
+    job: "Environmental specialist",
+    title:
+      "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Minima Libero Ullam, Facilis Similique Nam Possimus Obcaecati Tempore Sunt Laboriosam Alias?",
+    image: img13,
+  },
+  {
+    id: 3,
+    name: "York Deo",
+    job: "Environmental technician",
+    title:
+      "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Minima Libero Ullam, Facilis Similique Nam Possimus Obcaecati Tempore Sunt Laboriosam Alias?",
+    image: img14,
+  },
+  {
+    id: 4,
+    name: "Joseph Deo",
+    job: "Park ranger",
+    title:
+      "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Minima Libero Ullam, Facilis Similique Nam Possimus Obcaecati Tempore Sunt Laboriosam Alias?",
+    image: img15,
+  },
+];
+
 export const fisrtSection = [
   { id: 1, name: "Home", url: "#home" },
   { id: 1, name: "News", url: "#news" },

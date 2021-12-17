@@ -30,8 +30,6 @@ const Navbar = (props) => {
         <a href="#ecosytem">Ecosystem</a>
         <a href="#featurs">Features</a>
         <a href="#review">Review</a>
-        <a href="#faq">Faq</a>
-        <a href="#contact">Contact us</a>
       </nav>
     </Wrapper>
   );
